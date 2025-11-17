@@ -54,6 +54,10 @@ Requirements:
   - Models/1_5-Nov-2025.mat
   - liblsl-Matlab/
 
+ These are only needed if you wanna access the source code, else, just 
+ install the app with **VRBPPT_dcaro.exe**.
+ 
+------------------------------------------------------------------------
 Please refer any query to: dgcarolp@hotmail.com or
                            A00833057@exatec.tec.mx
 _________________________________________________________________________
