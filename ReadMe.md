@@ -55,7 +55,7 @@ Requirements:
   - liblsl-Matlab/
 
  These are only needed if you wanna access the source code, else, just 
- install the app with **VRBPPT_dcaro.exe**.
+ install the app with **VRBPPT.exe**.
  
 ------------------------------------------------------------------------
 Please refer any query to: dgcarolp@hotmail.com or
